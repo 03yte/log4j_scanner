@@ -1,3 +1,3 @@
 # log4j_scanner
 
-This powershell script will enmerate all mounted disks, then scan for all log4j .jar instances and output.
+This powershell script will enmerate all mounted disks, then scans for all log4j .jar instances and outputs.
